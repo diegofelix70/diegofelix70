@@ -1,11 +1,34 @@
 ### Hello! I'm Diego Felix
 
+About me:
+
+I love to create, and I ever liked to help, so I have this objeticve to create sites, currently I come working in to show the best the work of the people.
+
+Here you will can see a bit of my projects, that I do in mostly part copying, I can see this like part of my lear.
+
+<!--I'll let a link here, then you will be directed you to my portifolio, there have more about my work anda what I did as a frelancer, i hope you like, and if you want send some constructive, i'm open for it.-->
+
+Thank you for visit here.<!--, and for the visit the site too, if that's the case...-->
+
+
 - 🔭 I’m currently working as a freelancer in front-End
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: Ele/Dele He/Him
 - ⚡ Fun fact: I lerned and i'm leraning all alone with videos in youtube and free platforms!
 
 ### Olá! Eu sou o Diego Felix
+
+
+Um pouco sobre mim:
+
+Eu sou apaixoando por criações, e sempre vi em mim essa vontade de ajudar, então venho com esse objetivo na criação de sites, atualmente trabalho nisso para mostrar o melhor do trabalho das pessoas...
+
+Aqui você verá um pouco dos meus projetos, que faço de grande parte copiando, vejo isso como forma de aprendizado.
+
+<!--Aqui deixarei um link, onde te direcionará para um site criado por mim, lá está o meu material de portifóleo e com alguns trabalhos meu originais, esperam que gostem, lá está formas de contato, se caso queira mandar um construtiva.-->
+
+Obrigado por visitar aqui.<!--, e se caso também, por visitar o site...-->
+
 
 - 🔭 Atualmente estou trabalhando como freelancer in front-End
 - 🌱 Atualmente estou aprendendo JavaScript
