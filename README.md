@@ -1,73 +1,46 @@
-### Hello! I'm Diego Felix
+# 👋 Hi there, I'm Diego Felix
 
-About me:
+![Profile views](https://gpvc.arturio.dev/diegofelix70) 
 
-I love to create, and I ever liked to help, so I have this objeticve to create sites, currently I come working in to show the best the work of the people.
+## 🚀 About Me
 
-Here you will can see a bit of my projects, that I do in mostly part copying, I can see this like part of my lear.
+Ever since I was young, I've been fascinated with computers. As I grew up, I started working in marketing for websites, but my true passion lies in systems and the exciting possibilities of connecting them with AI. This passion led me to start working with Python.
 
-<!--I'll let a link here, then you will be directed you to my portifolio, there have more about my work anda what I did as a frelancer, i hope you like, and if you want send some constructive, i'm open for it.-->
+- 🌱 I’m currently learning more about **Python, SQL, and Automation**
+- 👯 I’m looking to collaborate on **AI and system integration projects**
+- 💬 Ask me about **Frontend development (HTML, CSS, JS) and Python**
+- 📫 How to reach me: [diegofelix70@example.com](mailto:diegofelix70@example.com)
+- ⚡ Fun fact: **I want to do something big and make a difference in the industry**
 
-Thank you for visit here.<!--, and for the visit the site too, if that's the case...-->
+## 🛠️ Technologies & Tools
 
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 
-- 🔭 I’m currently working as a freelancer in front-End
-- 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: Ele/Dele He/Him
-- ⚡ Fun fact: I lerned and i'm leraning all alone with videos in youtube and free platforms!
+## 📊 GitHub Stats
 
-### Olá! Eu sou o Diego Felix
+![diegofelix70's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofelix70&show_icons=true&theme=radical)
 
+## 📈 Top Languages
 
-Um pouco sobre mim:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofelix70&layout=compact&theme=radical)
 
-Eu sou apaixoando por criações, e sempre vi em mim essa vontade de ajudar, então venho com esse objetivo na criação de sites, atualmente trabalho nisso para mostrar o melhor do trabalho das pessoas...
+## 🏆 GitHub Trophies
 
-Aqui você verá um pouco dos meus projetos, que faço de grande parte copiando, vejo isso como forma de aprendizado.
+![trophy](https://github-profile-trophy.vercel.app/?username=diegofelix70&theme=onedark)
 
-<!--Aqui deixarei um link, onde te direcionará para um site criado por mim, lá está o meu material de portifóleo e com alguns trabalhos meu originais, esperam que gostem, lá está formas de contato, se caso queira mandar um construtiva.-->
+## 📫 Connect with Me
 
-Obrigado por visitar aqui.<!--, e se caso também, por visitar o site...-->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/diegofelix70)&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/diegofelix70)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:diegofelix70@example.com)
 
+---
 
-- 🔭 Atualmente estou trabalhando como freelancer in front-End
-- 🌱 Atualmente estou aprendendo JavaScript
-- ⚡ Fato curioso Eu aprendi e estou aprendendo tudo sozinho com videos no youtube e plataformas livres!
-
-<div align="center">
-  <a href="https://github.com/diegofelix70">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofelix70&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://instagram.com/diego1felix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "souzafelixdiego@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
- 
-  ![Snake animation](https://github.com/diegofelix70/diegofelix70/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-<!--
-**diegofelix70/diegofelix70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 Atualmente estou trabalhando como freelancer in front-End
-- 🔭 I’m currently working as a freelancer in front-End
-- 🌱 Atualmente estou aprendendo JavaScript
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/Dele He/Him
-- ⚡ Fato curioso: I lerned and i'm leraning all alone with videos in youtube and free platforms!
-- ⚡ Fun fact: Eu aprendi e estou aprendendo tudo sozinho com videos no youtube e plataformas livres!
--->
+⭐️ From [diegofelix70](https://github.com/diegofelix70)
